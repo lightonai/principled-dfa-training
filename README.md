@@ -1,8 +1,11 @@
 # Principled Training of Neural Networks with Direct Feedback Alignment
 
-This is the code for reproducing the results of our paper:
+This is the code for reproducing the results of our paper ([preprint](https://arxiv.org/abs/1906.04554)):
+
+
 
 **Principled Training of Neural Networks with Direct Feedback Alignment**
+
 *Julien Launay, Iacopo Poli, Florent Krzakala*
 
 
@@ -17,7 +20,7 @@ The backpropagation algorithm has long been the canonical training method for ne
 
 Running the provided code requires a CUDA-enabled GPU with around 1GB of memory. 
 
-When actions are required to make the code work (such as adding paths to datasets), they are marked with a comment starting with `# TODO:”`. 
+When actions are required to make the code work (such as adding paths to datasets), they are marked with a comment starting with `# TODO:`. 
 
 To reproduce, 
 
